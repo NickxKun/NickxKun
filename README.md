@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://semidesign.in/wp-content/uploads/2020/08/AnimatedMicrochip2-1.gif" align="center" style="width=50%" />
+![](AnimatedMicrochip2-1.gif)
 </div>  
 <table width="100%"><tr><td valign="top" width="50%">
 
