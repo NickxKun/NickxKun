@@ -1,6 +1,6 @@
-<div align="center">
+
 ![](AnimatedMicrochip2-1.gif)
-</div>  
+
 <table width="100%"><tr><td valign="top" width="50%">
 
 ### Hardware & DevOps Engineer
